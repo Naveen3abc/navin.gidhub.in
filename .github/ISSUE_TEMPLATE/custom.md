@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Naveen
+about: Describe this public exam date.
 title: ''
 labels: ''
 assignees: ''
